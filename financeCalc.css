@@ -1,0 +1,21 @@
+.con {
+    margin-top: 30px;
+    background-image: url('blue2.jpg');
+    padding: 15px;
+}
+
+#header, #footer {
+	text-align: center;
+}
+
+table {
+    border-color: black !important;
+}
+
+.table td{
+    border: black solid 1px !important;
+}
+
+.table th{
+    border: black solid 1px !important;
+}
